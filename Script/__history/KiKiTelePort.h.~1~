@@ -1,0 +1,29 @@
+// TWMS150.2 KIKI
+long KiKiTelePortSw;
+long KiKiXY[2];
+void __declspec(naked) KiKiTelePortHook(){
+VMProtectBegin("KiKiTelePortHook");
+asm{
+cmp [KiKiTelePortSw],ebx
+je NoKiKi
+mov [esi+0x5F70],ebx
+mov ebx,[ebp-0x10]
+sub ebx,3000
+mov [esi+0x5F80],ebx
+mov ebx,[KiKiXY+0x0]
+mov [esi+0x5F78],ebx
+mov ebx,[KiKiXY+0x4]
+mov [esi+0x5F7C],ebx
+xor ebx,ebx
+cmp [LevUpMode],02
+je KiKiMain
+mov [KiKiTelePortSw],ebx
+KiKiMain:
+push 0x092F3ED
+ret
+NoKiKi:
+push 0x092F6AC
+ret
+}
+VMProtectEnd();
+}

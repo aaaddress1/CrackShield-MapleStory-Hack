@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2012/11/21 18:57:17.000.045,=C:\Users\Adr\Documents\RAD Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2012/11/21 18:57:49.000.443,C:\Users\Adr\Desktop\新破盾\File1.cpp=C:\Users\Adr\Documents\RAD Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2012/11/21 18:57:52.000.585,C:\Users\Adr\Desktop\新破盾\Project2.cbproj=C:\Users\Adr\Documents\RAD Studio\Projects\Project2.cbproj</Transaction>
+    <Transaction>2012/11/21 19:00:59.000.375,C:\Users\Adr\Desktop\新破盾\File1.cpp=</Transaction>
+    <Transaction>2012/11/21 19:01:17.000.277,C:\Users\Adr\Desktop\新破盾\CrackShield.cbproj=C:\Users\Adr\Desktop\新破盾\Project2.cbproj</Transaction>
+    <Transaction>2012/11/21 19:01:23.000.981,=C:\Users\Adr\Desktop\新破盾\Unit1.cpp</Transaction>
+    <Transaction>2012/11/21 19:04:27.000.072,C:\Users\Adr\Desktop\新破盾\CsForm.h=C:\Users\Adr\Desktop\新破盾\Unit1.h</Transaction>
+    <Transaction>2012/11/21 19:04:27.000.072,C:\Users\Adr\Desktop\新破盾\CsForm.cpp=C:\Users\Adr\Desktop\新破盾\Unit1.cpp</Transaction>
+    <Transaction>2012/11/21 19:04:27.000.072,C:\Users\Adr\Desktop\新破盾\CsForm.dfm=C:\Users\Adr\Desktop\新破盾\Unit1.dfm</Transaction>
+    <Transaction>2012/11/21 19:05:31.000.060,=C:\Users\Adr\Desktop\新破盾\Source\Pointer.h</Transaction>
+    <Transaction>2012/11/21 19:07:11.000.752,C:\Users\Adr\Desktop\新破盾\File1.dfm=C:\Users\Adr\Desktop\新破盾\CsForm.dfm</Transaction>
+    <Transaction>2012/11/21 19:07:11.000.752,C:\Users\Adr\Desktop\新破盾\File1.h=C:\Users\Adr\Desktop\新破盾\CsForm.h</Transaction>
+    <Transaction>2012/11/21 19:07:11.000.752,C:\Users\Adr\Desktop\新破盾\File1.cpp=C:\Users\Adr\Desktop\新破盾\CsForm.cpp</Transaction>
+    <Transaction>2012/11/21 19:07:22.000.726,C:\Users\Adr\Desktop\新破盾\CsForm.dfm=C:\Users\Adr\Desktop\新破盾\File1.dfm</Transaction>
+    <Transaction>2012/11/21 19:07:22.000.726,C:\Users\Adr\Desktop\新破盾\CsForm.cpp=C:\Users\Adr\Desktop\新破盾\File1.cpp</Transaction>
+    <Transaction>2012/11/21 19:07:22.000.726,C:\Users\Adr\Desktop\新破盾\CsForm.h=C:\Users\Adr\Desktop\新破盾\File1.h</Transaction>
+    <Transaction>2012/11/21 19:08:27.000.846,=C:\Users\Adr\Desktop\新破盾\MyFuction.h</Transaction>
+    <Transaction>2012/11/21 19:08:34.000.305,C:\Users\Adr\Desktop\新破盾\MyFuction.h=</Transaction>
+    <Transaction>2012/11/21 19:09:01.000.649,=C:\Users\Adr\Desktop\新破盾\Source\MyFuction.h</Transaction>
+    <Transaction>2012/11/21 19:19:48.000.003,C:\Users\Adr\Desktop\CsNewVIP\CrackShield.cbproj=C:\Users\Adr\Desktop\新破盾\CrackShield.cbproj</Transaction>
+    <Transaction>2012/11/21 19:24:01.000.686,C:\Users\Adr\Desktop\CsNewVIP\MyFuction.h=C:\Users\Adr\Desktop\新破盾\Source\MyFuction.h</Transaction>
+    <Transaction>2012/11/21 19:24:10.000.774,C:\Users\Adr\Desktop\CsNewVIP\CrackShield.cbproj=C:\Users\Adr\Desktop\CsNewVIP\CrackShield.cbproj</Transaction>
+    <Transaction>2012/11/21 19:24:23.000.345,C:\Users\Adr\Desktop\CsNewVIP\Source\Pointer.h=C:\Users\Adr\Desktop\新破盾\Source\Pointer.h</Transaction>
+    <Transaction>2012/11/21 19:25:46.000.700,C:\Users\Adr\Desktop\新破盾\CsForm.cpp=</Transaction>
+    <Transaction>2012/11/21 19:25:54.000.649,=C:\Users\Adr\Desktop\CsNewVIP\CsForm.cpp</Transaction>
+    <Transaction>2012/11/21 19:26:12.000.599,=C:\Users\Adr\Desktop\CsNewVIP\Source\CRC.h</Transaction>
+    <Transaction>2012/11/21 19:26:12.000.611,=C:\Users\Adr\Desktop\CsNewVIP\Source\MultiMs.h</Transaction>
+    <Transaction>2012/11/21 19:26:12.000.626,=C:\Users\Adr\Desktop\CsNewVIP\Source\MyFuction.h</Transaction>
+    <Transaction>2012/11/21 19:37:47.000.280,=C:\Users\Adr\Desktop\CsNewVIP\Script\Dingua_.h</Transaction>
+    <Transaction>2012/11/21 19:37:47.000.370,=C:\Users\Adr\Desktop\CsNewVIP\Script\OverAttack_.h</Transaction>
+    <Transaction>2012/11/21 19:37:47.000.338,=C:\Users\Adr\Desktop\CsNewVIP\Script\HumTempControl_.h</Transaction>
+    <Transaction>2012/11/21 19:37:47.000.234,=C:\Users\Adr\Desktop\CsNewVIP\Script\ControlHumanSide_.h</Transaction>
+    <Transaction>2012/11/21 19:37:47.000.400,=C:\Users\Adr\Desktop\CsNewVIP\Script\XY_Fix.h</Transaction>
+    <Transaction>2012/11/21 19:37:47.000.299,=C:\Users\Adr\Desktop\CsNewVIP\Script\DoubleShoot_.h</Transaction>
+    <Transaction>2012/11/21 19:37:47.000.303,=C:\Users\Adr\Desktop\CsNewVIP\Script\Full_.h</Transaction>
+    <Transaction>2012/11/21 19:37:47.000.266,=C:\Users\Adr\Desktop\CsNewVIP\Script\ControlHunUnP_.h</Transaction>
+    <Transaction>2012/11/21 19:37:47.000.390,=C:\Users\Adr\Desktop\CsNewVIP\Script\WalkFast_.h</Transaction>
+    <Transaction>2012/11/21 19:37:47.000.318,=C:\Users\Adr\Desktop\CsNewVIP\Script\GiFon_.h</Transaction>
+    <Transaction>2012/11/21 19:37:47.000.333,=C:\Users\Adr\Desktop\CsNewVIP\Script\HumanLr_.h</Transaction>
+    <Transaction>2012/11/21 19:37:47.000.458,=C:\Users\Adr\Desktop\CsNewVIP\Script\芲郎.vmp</Transaction>
+    <Transaction>2012/11/21 19:37:47.000.357,=C:\Users\Adr\Desktop\CsNewVIP\Script\MobLrControl_.h</Transaction>
+    <Transaction>2012/11/21 19:37:47.000.376,=C:\Users\Adr\Desktop\CsNewVIP\Script\SS_Mouse.h</Transaction>
+    <Transaction>2012/11/21 19:37:47.000.352,=C:\Users\Adr\Desktop\CsNewVIP\Script\Hurt_.h</Transaction>
+    <Transaction>2012/11/21 19:38:17.000.942,C:\Users\Adr\Desktop\CsNewVIP\Script\芲郎.vmp=</Transaction>
+    <Transaction>2012/11/26 23:20:35.000.770,C:\Users\Adr\Desktop\CsNewVIP\MyFuction.h=</Transaction>
+    <Transaction>2012/11/29 22:37:10.000.196,C:\Users\Adr\Desktop\CsNewVIP\Script\KiKiTelePort.h=C:\Users\Adr\Desktop\CsNewVIP\Script\SS_Mouse.h</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Script"/>
+    <File Path="Script\ControlHumanSide_.h"/>
+    <File Path="Script\ControlHunUnP_.h"/>
+    <File Path="Script\Dingua_.h"/>
+    <File Path="Script\DoubleShoot_.h"/>
+    <File Path="Script\Full_.h"/>
+    <File Path="Script\GiFon_.h"/>
+    <File Path="Script\HumanLr_.h"/>
+    <File Path="Script\HumTempControl_.h"/>
+    <File Path="Script\Hurt_.h"/>
+    <File Path="Script\KiKiTelePort.h"/>
+    <File Path="Script\MobLrControl_.h"/>
+    <File Path="Script\OverAttack_.h"/>
+    <File Path="Script\WalkFast_.h"/>
+    <File Path="Script\XY_Fix.h"/>
+    <File Path="Source"/>
+    <File Path="Source\CRC.h"/>
+    <File Path="Source\MultiMs.h"/>
+    <File Path="Source\MyFuction.h"/>
+    <File Path="Source\Pointer.h"/>
+    <File Path="CsForm.cpp"/>
+    <File Path="CsForm.cpp"/>
+    <File Path="CsForm.dfm"/>
+    <File Path="CsForm.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
